@@ -7,7 +7,7 @@
 
 판매처: <a href="https://product.kyobobook.co.kr/detail/S000213057051">교보문고</a>, <a href="https://www.yes24.com/Product/Goods/126114513">예스24</a>, <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338394581">알라딘</a> 등
 
-[미리보기](https://product.kyobobook.co.kr/book/preview/S000213057051)
+[미리보기](https://product.kyobobook.co.kr/book/preview/S000213057051) | [정오표](https://docs.google.com/document/d/1Xa0VvT-2ADxCZu5LIKgo4rLTpOYXba2wlSo7AZ4Egrk)
 
 ---
 
@@ -31,11 +31,3 @@
 이 책 원서는 중국에서 수십만 부가 팔리며 꾸준히 인기를 누리고 있는 스테디셀러의 3판입니다. 하지만 IT 세계에서는 아무리 좋은 내용이라도 시간이 지나면 어딘가 아쉬운 법. 번역서가 나오기까지 약 4년 여가 더 흘러서 원서 그대로를 번역해 내놓을 수는 없었습니다. 모든 내용을 번역 탈고 시점에 맞추느라 원고를 몇 번이나 뜯어고쳤습니다. 그 결과 최신 LTS(장기 지원) 버전인 JDK 21까지의 정보와 기술을 반영했습니다. 실습은 더 많은 독자의 환경에 맞추고자 직전 LTS 버전인 JDK 17에 맞췄습니다(대부분의 실습을 21 버전에서도 수행해 보았으나 차이점은 발견하지 못했습니다).
 
 덕분에 원서에 없는 내용을 엄청나게 찾아 공부하였고, JDK를 7부터 21까지 모두 설치해 두고 변화를 추적하고 확인했습니다. 농담이 아니라, 진짜로 ‘4판을 쓴다’는 생각으로 번역했습니다. 공을 들인 만큼 우리나라 개발자들에게도 널리 읽히고 많은 도움이 되기를 소망해 봅니다.
-
----
-
-## 책의 오류
-
-오탈자 등 오류 정보는 아래 페이지에서 확인하실 수 있습니다.
-
-[정오표](https://docs.google.com/document/d/1Xa0VvT-2ADxCZu5LIKgo4rLTpOYXba2wlSo7AZ4Egrk)
