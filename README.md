@@ -11,10 +11,10 @@
 
 ---
 
-## 탄생 비화
+## 읽을거리
 
-* [첫 만남부터 출간까지..](https://brunch.co.kr/@wegra/36)
-* Coming later
+* [탄생비화](https://brunch.co.kr/@wegra/36)
+* [세상에서 가장 긴 Hello World 강의](https://brunch.co.kr/@wegra/38)
 
 ## 옮긴이의 말
 
